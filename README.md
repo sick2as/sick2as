@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sick2as
+- 👋 Hi, I’m @Sick2Py
 - 👀 I’m interested in python development and ai learning 
 - 🌱 I’m currently learning C# and Python game development
 - 💞️ I’m looking to collaborate on my games and other projects
